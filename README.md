@@ -1,4 +1,4 @@
-# DDS to BMP
+# TXTR to BMP
 <p align="left">
   <strong>-</strong>
   <br/>
